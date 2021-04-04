@@ -1,7 +1,7 @@
 ### hi hi (─‿‿─)~
-- 😄 Pronouns: he/him/his
-- 💬 Ask me about: spicy/sweet snacks, toreba, 한국어
-- 🔭 I’m currently working on: cool backend analytics things @ lever
+- 🌱 _Pronouns:_ he/him/his
+- 😄 _Ask me about:_ spicy/sweet snacks, toreba, 한국어
+- 🔭 _I’m currently working on:_ cool backend data things @ lever
 
 <!--
 **nwgreenl/nwgreenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
