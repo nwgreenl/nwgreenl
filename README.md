@@ -1,7 +1,7 @@
 ### hi hi (─‿‿─)~
 - 🌱 __Pronouns:__ he/him/his
 - 😄 __Ask me about:__ cats, spicy/sweet snacks, toreba, 한국어
-- 🔭 __I’m currently working on:__ creative backend data things @ lever
+- 🔭 __I’m currently working on:__ reporting things @ lever
 
 <!--
 **nwgreenl/nwgreenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
