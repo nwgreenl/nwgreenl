@@ -1,6 +1,6 @@
 ### hi hi (─‿‿─)~
 - 🌱 __Pronouns:__ he/him/his
-- 😄 __Ask me about:__ cats, spicy/sweet snacks, toreba, 한국어
+- 😄 __Ask me about:__ cats, spicy/sweet snacks, games, tcg, cars, 한국어
 - 🔭 __I’m currently working on:__ engineering operations @ netflix 🙂
 
 <!--
